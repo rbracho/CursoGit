@@ -1,3 +1,4 @@
 estilosCSS
 nueva linea agregada
 otra linea agregada
+full-size:18px
